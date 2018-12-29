@@ -1,4 +1,4 @@
-# Hourly-Forecast
+# Hourly Forecast
 
 ## Introduction
 
