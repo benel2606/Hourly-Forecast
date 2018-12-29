@@ -1,0 +1,17 @@
+#map {
+    margin: auto;
+    max-width: 900px;
+}
+
+.visibility {
+    visibility: hidden;
+}
+
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alert {
+    visibility: hidden;
+}
