@@ -4,7 +4,7 @@
 
 Web application which uses in Leflet javascript library and Open Weather Map API.
 
-When selected location on the map it gives the current weather at next 18 hours.
+When selected location on the map it gives the current weather for the next 18 hours.
 
 ## The services 
 - Leaflet- is the open-source JavaScript library for interactive maps.
