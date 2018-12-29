@@ -1,6 +1,6 @@
 #map {
     margin: auto;
-    max-width: 900px;
+    /* max-width: 900px; */
 }
 
 .visibility {
@@ -14,4 +14,8 @@
 
 .alert {
     visibility: hidden;
+}
+
+body {
+    margin: auto;
 }
