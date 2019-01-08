@@ -8,7 +8,7 @@ When selecting location on the map it gives the current weather for the next 18 
 
 
 ## The services 
-- Leaflet- is the open-source JavaScript library for interactive maps.
+- Leaflet- The open-source javaScript library for interactive maps.
 - OpenWeatherMap- The API provides Geojson file with 3 hour forecast data.
 
 ## Screenshot
